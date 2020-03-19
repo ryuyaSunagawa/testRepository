@@ -71,6 +71,7 @@ Calculation :: Calculation( doble right, double left ) {
 int main() {
 
     HelloWorld hello;
+    Calculation cal( 1, 1 );
 
     hello.GetValue( 2 );
 
