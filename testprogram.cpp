@@ -18,6 +18,10 @@ class HelloWorld {
             return helloValue;
         }
 
+        void PlusValue( int i ) {
+            helloValue += i;
+        }
+
     private :
         int helloValue;
 }
