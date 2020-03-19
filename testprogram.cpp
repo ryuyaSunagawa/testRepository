@@ -3,9 +3,11 @@
 using namespace std;
 
 int main() {
-    cout << "HelloGit" << endl;
+    cout << "HelloGif" << endl;
 
     cout << "HunkTry" << endl;
+
+    cout << "HunkTry2" << endl;
 
     return 0;
 }
